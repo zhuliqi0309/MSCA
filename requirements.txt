@@ -1,0 +1,5 @@
+python==3.7.16
+pytorch  1.8.0
+numpy==1.21.6
+tensorboard ==2.11.2
+nltk==3.8.1
